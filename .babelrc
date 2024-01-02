@@ -18,7 +18,8 @@
             "_styles": "./src/styles",
             "_utils": "./src/utils",
             "_actions": "./src/store/actions",
-            "_reducers": "./src/store/reducers"
+            "_reducers": "./src/store/reducers",
+            "_context": ["./src/store/context"]
           }
         }
       ]
